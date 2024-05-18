@@ -28,8 +28,8 @@ To get started with the MoU Generator backend, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/mou-generator-backend.git
-    cd mou-generator-backend
+    git clone https://github.com/20AbhishekRoka02/mou-generator-backend-code.git
+    cd mou-generator-backend-code
     ```
 
 2. **Create a virtual environment:**
